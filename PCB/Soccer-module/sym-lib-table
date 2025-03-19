@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "My_Symbols2")(type "KiCad")(uri "C:/Users/HP/Desktop/GH_Proyects/Robot Soccer - FIEE UNMSM/PCB/libraries/symbols/My_Symbols2.kicad_sym")(options "")(descr ""))
+  (lib (name "Soccer-soocer")(type "KiCad")(uri "C:/Users/HP/Desktop/GH_Proyects/Robot Soccer - FIEE UNMSM/PCB/libraries/symbols/Soccer-soocer.kicad_sym")(options "")(descr ""))
+  (lib (name "Soccer-symbols")(type "KiCad")(uri "C:/Users/HP/Desktop/GH_Proyects/Robot Soccer - FIEE UNMSM/PCB/libraries/symbols/Soccer-symbols.kicad_sym")(options "")(descr ""))
+)

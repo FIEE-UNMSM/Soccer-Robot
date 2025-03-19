@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprints-soccer")(type "KiCad")(uri "C:/Users/HP/Desktop/GH_Proyects/Robot Soccer - FIEE UNMSM/PCB/libraries/footprints/Footprints-soccer.pretty")(options "")(descr ""))
+)
