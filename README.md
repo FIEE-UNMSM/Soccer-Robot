@@ -9,12 +9,12 @@ Las competiciones y torneos de robótica son puntos importantes que formentan la
 construcción y mejora del armado de robots. IEEE RAS es una de los capítulos más preferibles
 que lleva el ámbito de la robótica y la automatización a otro nivel. Por ello, se ha fomentado
 la construcción de este repositorio para la mejora de uno de los robots más utilizado en las
-competencias"
+competencias
 ```
 
 ## CONTENIDO
 
-Se piensa implementar todo el contenido del modelado 3D, diseño del hardware y código fuente utilizados y que son suficientes para que cualquier personas pueda implementar su propio robot soccer.
+Se piensa implementar el contenido del modelado 3D, diseño del hardware y código fuente utilizados, y que son suficientes para que cualquier personas pueda implementar su propio robot soccer. Y así uno mismo pueda reconocer las mejoras y los cambios necesarios del robot, además de poder colaborar libremente con el repositorio :').
 
 |CONTENIDO| SOFTWARE |
 | ------ | ------ |
